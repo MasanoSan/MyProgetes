@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "using 2 metods/1.0.0": {
+        "runtime": {
+          "using 2 metods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "using 2 metods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

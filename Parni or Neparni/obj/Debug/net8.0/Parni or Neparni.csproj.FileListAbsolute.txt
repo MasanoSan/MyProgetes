@@ -1,0 +1,14 @@
+/home/geitherih/Стільниця/project/Parni or Neparni/obj/Debug/net8.0/Parni or Neparni.GeneratedMSBuildEditorConfig.editorconfig
+/home/geitherih/Стільниця/project/Parni or Neparni/obj/Debug/net8.0/Parni or Neparni.AssemblyInfoInputs.cache
+/home/geitherih/Стільниця/project/Parni or Neparni/obj/Debug/net8.0/Parni or Neparni.AssemblyInfo.cs
+/home/geitherih/Стільниця/project/Parni or Neparni/obj/Debug/net8.0/Parni or Neparni.csproj.CoreCompileInputs.cache
+/home/geitherih/Стільниця/project/Parni or Neparni/bin/Debug/net8.0/Parni or Neparni
+/home/geitherih/Стільниця/project/Parni or Neparni/bin/Debug/net8.0/Parni or Neparni.deps.json
+/home/geitherih/Стільниця/project/Parni or Neparni/bin/Debug/net8.0/Parni or Neparni.runtimeconfig.json
+/home/geitherih/Стільниця/project/Parni or Neparni/bin/Debug/net8.0/Parni or Neparni.dll
+/home/geitherih/Стільниця/project/Parni or Neparni/bin/Debug/net8.0/Parni or Neparni.pdb
+/home/geitherih/Стільниця/project/Parni or Neparni/obj/Debug/net8.0/Parni or Neparni.dll
+/home/geitherih/Стільниця/project/Parni or Neparni/obj/Debug/net8.0/refint/Parni or Neparni.dll
+/home/geitherih/Стільниця/project/Parni or Neparni/obj/Debug/net8.0/Parni or Neparni.pdb
+/home/geitherih/Стільниця/project/Parni or Neparni/obj/Debug/net8.0/Parni or Neparni.genruntimeconfig.cache
+/home/geitherih/Стільниця/project/Parni or Neparni/obj/Debug/net8.0/ref/Parni or Neparni.dll

@@ -1,0 +1,14 @@
+/home/geitherih/Стільниця/project/MessageProcessor/bin/Debug/net8.0/MessageProcessor
+/home/geitherih/Стільниця/project/MessageProcessor/bin/Debug/net8.0/MessageProcessor.deps.json
+/home/geitherih/Стільниця/project/MessageProcessor/bin/Debug/net8.0/MessageProcessor.runtimeconfig.json
+/home/geitherih/Стільниця/project/MessageProcessor/bin/Debug/net8.0/MessageProcessor.dll
+/home/geitherih/Стільниця/project/MessageProcessor/bin/Debug/net8.0/MessageProcessor.pdb
+/home/geitherih/Стільниця/project/MessageProcessor/obj/Debug/net8.0/MessageProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/home/geitherih/Стільниця/project/MessageProcessor/obj/Debug/net8.0/MessageProcessor.AssemblyInfoInputs.cache
+/home/geitherih/Стільниця/project/MessageProcessor/obj/Debug/net8.0/MessageProcessor.AssemblyInfo.cs
+/home/geitherih/Стільниця/project/MessageProcessor/obj/Debug/net8.0/MessageProcessor.csproj.CoreCompileInputs.cache
+/home/geitherih/Стільниця/project/MessageProcessor/obj/Debug/net8.0/MessageProcessor.dll
+/home/geitherih/Стільниця/project/MessageProcessor/obj/Debug/net8.0/refint/MessageProcessor.dll
+/home/geitherih/Стільниця/project/MessageProcessor/obj/Debug/net8.0/MessageProcessor.pdb
+/home/geitherih/Стільниця/project/MessageProcessor/obj/Debug/net8.0/MessageProcessor.genruntimeconfig.cache
+/home/geitherih/Стільниця/project/MessageProcessor/obj/Debug/net8.0/ref/MessageProcessor.dll

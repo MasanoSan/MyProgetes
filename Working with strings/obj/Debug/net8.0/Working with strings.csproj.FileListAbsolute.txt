@@ -1,0 +1,14 @@
+/home/geitherih/Стільниця/project/Working with strings/bin/Debug/net8.0/Working with strings
+/home/geitherih/Стільниця/project/Working with strings/bin/Debug/net8.0/Working with strings.deps.json
+/home/geitherih/Стільниця/project/Working with strings/bin/Debug/net8.0/Working with strings.runtimeconfig.json
+/home/geitherih/Стільниця/project/Working with strings/bin/Debug/net8.0/Working with strings.dll
+/home/geitherih/Стільниця/project/Working with strings/bin/Debug/net8.0/Working with strings.pdb
+/home/geitherih/Стільниця/project/Working with strings/obj/Debug/net8.0/Working with strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/geitherih/Стільниця/project/Working with strings/obj/Debug/net8.0/Working with strings.AssemblyInfoInputs.cache
+/home/geitherih/Стільниця/project/Working with strings/obj/Debug/net8.0/Working with strings.AssemblyInfo.cs
+/home/geitherih/Стільниця/project/Working with strings/obj/Debug/net8.0/Working with strings.csproj.CoreCompileInputs.cache
+/home/geitherih/Стільниця/project/Working with strings/obj/Debug/net8.0/Working with strings.dll
+/home/geitherih/Стільниця/project/Working with strings/obj/Debug/net8.0/refint/Working with strings.dll
+/home/geitherih/Стільниця/project/Working with strings/obj/Debug/net8.0/Working with strings.pdb
+/home/geitherih/Стільниця/project/Working with strings/obj/Debug/net8.0/Working with strings.genruntimeconfig.cache
+/home/geitherih/Стільниця/project/Working with strings/obj/Debug/net8.0/ref/Working with strings.dll

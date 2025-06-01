@@ -1,0 +1,14 @@
+/home/geitherih/Стільниця/project/using 2 metods/bin/Debug/net8.0/using 2 metods
+/home/geitherih/Стільниця/project/using 2 metods/bin/Debug/net8.0/using 2 metods.deps.json
+/home/geitherih/Стільниця/project/using 2 metods/bin/Debug/net8.0/using 2 metods.runtimeconfig.json
+/home/geitherih/Стільниця/project/using 2 metods/bin/Debug/net8.0/using 2 metods.dll
+/home/geitherih/Стільниця/project/using 2 metods/bin/Debug/net8.0/using 2 metods.pdb
+/home/geitherih/Стільниця/project/using 2 metods/obj/Debug/net8.0/using 2 metods.GeneratedMSBuildEditorConfig.editorconfig
+/home/geitherih/Стільниця/project/using 2 metods/obj/Debug/net8.0/using 2 metods.AssemblyInfoInputs.cache
+/home/geitherih/Стільниця/project/using 2 metods/obj/Debug/net8.0/using 2 metods.AssemblyInfo.cs
+/home/geitherih/Стільниця/project/using 2 metods/obj/Debug/net8.0/using 2 metods.csproj.CoreCompileInputs.cache
+/home/geitherih/Стільниця/project/using 2 metods/obj/Debug/net8.0/using 2 metods.dll
+/home/geitherih/Стільниця/project/using 2 metods/obj/Debug/net8.0/refint/using 2 metods.dll
+/home/geitherih/Стільниця/project/using 2 metods/obj/Debug/net8.0/using 2 metods.pdb
+/home/geitherih/Стільниця/project/using 2 metods/obj/Debug/net8.0/using 2 metods.genruntimeconfig.cache
+/home/geitherih/Стільниця/project/using 2 metods/obj/Debug/net8.0/ref/using 2 metods.dll
