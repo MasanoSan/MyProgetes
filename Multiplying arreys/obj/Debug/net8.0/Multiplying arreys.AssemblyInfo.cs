@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multiplying arreys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a179dfcff8d1a383a5af74629c15d971b421a673")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multiplying arreys")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multiplying arreys")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
