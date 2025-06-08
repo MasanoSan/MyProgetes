@@ -7,9 +7,7 @@ namespace FileManager
     {
         public static void Main()
         {
-            Console.WriteLine("boobs");
-            Console.WriteLine("fouck");
-            Console.WriteLine("itsworking");
+            
         }
     }
 }
