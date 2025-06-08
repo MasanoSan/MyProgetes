@@ -4,8 +4,12 @@ using System.Threading.Tasks.Dataflow;
 
 namespace FileManager
 {
+    // Same as FileItem, rename the class
+    // Naming tip: This class is base for other system managers
     public abstract class BaseFileSystemItem
     {
+        // Path should not be public
+        // Also can be renamed to something like "CurrentPath", to avoid System.IO.Path namespace conflicts
         public string Path { get; set; }
         protected BaseFileSystemItem(string path)
         {

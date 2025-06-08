@@ -3,9 +3,17 @@ using System.IO;
 
 namespace FileManager
 {
+    // Name of the class should represent it's purpose. 
+    // FileItem means this class is representing a single file, but it's not true
+    // This class exists for "managing files", think around this and set new proper name
+    // (It's better to start follow clean code now, to get used to it)
+
     public class FileItem : BaseFileSystemItem
     {
         public FileItem(string path) : base(path) { }
+
+        // When we creating a file, it returns FileStream class (automatically opens it for Input/Output). 
+        // File streams should be closed manually (use method Dispose to close steam, or "using" statement)
         public override void Create(string newName)
         {
             string newFile = System.IO.Path.Combine(Path, newName);
@@ -29,6 +37,7 @@ namespace FileManager
             
             Console.WriteLine("Файл перейменовано ");
         }
+        // Should have two parameters as Rename method
         public void Copy(string newName)
         {
             string newPath = System.IO.Path.Combine(Path, newName);
@@ -47,6 +56,7 @@ namespace FileManager
                 Console.WriteLine("Файл не знайдено!");
             }
         }
+
         public void ReadFile(string newName)
         {
             string newPath = System.IO.Path.Combine(Path, newName);

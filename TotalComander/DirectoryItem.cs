@@ -3,6 +3,8 @@ using System.IO;
 
 namespace FileManager
 {
+    // Same as FileItem, rename the class
+    // Naming tip: This class exists for "managing directories"
     public class DirectoryItem : BaseFileSystemItem
     {
         private string previousDirectory;
