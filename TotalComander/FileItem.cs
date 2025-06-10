@@ -10,11 +10,13 @@ namespace FileManager
         {
             string newFile = System.IO.Path.Combine(Path, newName);
             File.Create(newFile);
+            Console.WriteLine("Файл створено");
         }
         public override void Delete(string newName)
         {
             string delFile = System.IO.Path.Combine(Path, newName);
             File.Delete(delFile);
+            Console.WriteLine("Файл видалено");
         }
         public void Rename(string fileToRename, string newName)
         {
