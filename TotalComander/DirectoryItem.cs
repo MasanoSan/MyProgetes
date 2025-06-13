@@ -44,6 +44,7 @@ namespace FileManager
             if (Directory.Exists(newDirectory))
             {
                 previousDirectory = Path;
+                Directory.SetCurrentDirectory(newDirectory);
                 Path = newDirectory;
             }
             else
@@ -55,7 +56,10 @@ namespace FileManager
         {
             if (Directory.Exists(previousDirectory))
             {
-                (Path, previousDirectory) = (previousDirectory, Path);
+                string current = Directory.GetCurrentDirectory();
+                Directory.SetCurrentDirectory(previousDirectory);
+                Path = previousDirectory;
+                previousDirectory = current;
             }
             else
             {
